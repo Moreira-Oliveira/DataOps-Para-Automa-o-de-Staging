@@ -1,4 +1,4 @@
-# DataOps-Para-Automa-o-de-Staging
+# DataOps-Para-Automacao-de-Staging
 
 📚DataOps Para Automação de Staging e Data Warehousing com Airbyte, dbt, SQL e Snowflake.
 
@@ -6,7 +6,7 @@ Um projeto de DataOps totalmente prático e abrangente, que integra diversas fer
 
 ![Image](https://github.com/user-attachments/assets/85958bc2-8123-4401-aa2e-52b18313aa6d)
 
-📚 Estratégias de Backup e RecuperaçãoPara Data Warehouse na Nuvem
+📚 Estratégias de Backup e Recuperação para Data Warehouse na Nuvem
 
 Garantir alta disponibilidade, integridade dos dados e tempos mínimos de inatividade é essencial para backups e recuperação em Data Warehouses na nuvem. As principais abordagens incluem:
 
